@@ -1,0 +1,7 @@
+api_env
+.env
+*sql_scripts
+.azure
+.vscode
+__pycache__
+.deployment
